@@ -1,0 +1,15 @@
+tn\esprit\examen\nomPrenomClasseExamen\nomPrenomClasseExamenApplication.class
+tn\esprit\examen\nomPrenomClasseExamen\entities\Clinique.class
+tn\esprit\examen\nomPrenomClasseExamen\entities\RendezVous.class
+tn\esprit\examen\nomPrenomClasseExamen\entities\Genre.class
+tn\esprit\examen\nomPrenomClasseExamen\repositories\IClientRepository.class
+tn\esprit\examen\nomPrenomClasseExamen\aspects\LoggingAspect.class
+tn\esprit\examen\nomPrenomClasseExamen\entities\Patient.class
+tn\esprit\examen\nomPrenomClasseExamen\entities\Specialite.class
+tn\esprit\examen\nomPrenomClasseExamen\controllers\ClientRestController.class
+tn\esprit\examen\nomPrenomClasseExamen\aspects\PerformanceAspect.class
+tn\esprit\examen\nomPrenomClasseExamen\entities\Medecin.class
+tn\esprit\examen\nomPrenomClasseExamen\entities\Client.class
+tn\esprit\examen\nomPrenomClasseExamen\repositories\CliniqueRepository.class
+tn\esprit\examen\nomPrenomClasseExamen\services\IServices.class
+tn\esprit\examen\nomPrenomClasseExamen\services\ServicesImpl.class
